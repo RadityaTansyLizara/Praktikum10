@@ -113,4 +113,5 @@ list.items(): memanggil isi dari variable list, .format Digunakan untuk mengatur
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(c))
 
 ## Hasil program
-![Alt text](image.png)
+![image](https://github.com/RadityaTansyLizara/Praktikum10/assets/147571863/9efac935-528d-4f50-9324-1d437d541cda)
+
